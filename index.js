@@ -7,7 +7,7 @@ const { auth, JWT_SECRET } = require('./auth');
 
 // connecting mongodb server
 mongoose.connect(
-  'mongodb+srv://basanta:B2k24ismine%401$@cluster0.zaqrj.mongodb.net/todo-app-basanta'
+  'pastehere.....'
 );
 
 // allowing app to parse json data sent by the backend.!
